@@ -1,0 +1,8 @@
+embrem-se: a diferença entre git e github é que o git é só uma ferramenta para versionar projetos, 
+enquanto o github é o site no qual você colocará esses projetos versionados.
+ uma analogia válida seria que o git é seu pincel e tintas enquanto o
+ 
+ 
+working space
+stage
+commited
